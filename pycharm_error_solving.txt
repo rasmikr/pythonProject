@@ -1,0 +1,3 @@
+to avoid single click - tried right click on file window and open on single click-> check off
+it did'nt work. 
+preview removed- this worked
